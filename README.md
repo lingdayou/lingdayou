@@ -1,4 +1,4 @@
-- 👋 Hi, I’m zero-hero.
+- 👋 Hi, I’m zero.
 - 👀 I’m interested in stm32 and esp32.
 - 🌱 I’m currently learning stm32 and esp32.
 - 💞️ I’m looking to become better.
